@@ -1,2 +1,2 @@
-# nlw-06-reactjs
+# Letemeask
 Um chat de conversas privada.
